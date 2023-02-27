@@ -12,6 +12,7 @@ To run the program, make use of the provided makefile and type the command "make
 - Option 0: Ends the program.
 - Option 1: Allows the user to input a word or phrase for validation.
 - Option 2: Allows the user to input a character.
+
 If the user selects Option 1, they are prompted to input a word or phrase. The program is designed to handle spaces and uppercase/lowercase letters. Three cases may arise:
 
 - Case One: If the user input is a valid word, the program confirms it with a message and also lists all the words in the hash table that start with the first two letters of the user input.
